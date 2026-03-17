@@ -7,16 +7,19 @@ function Technologies() {
     css,
     js,
     react,
-    redux,
-    tailwind,
     bootstrap,
-    sass,
     vscode,
     git,
     github,
     npm,
     postman,
     figma,
+    php,
+    angular,
+    java,
+    spring,
+    python,
+    node
   } = techStackDetails;
   return (
     <main className="container mx-auto max-width pt-10 pb-20 ">
@@ -25,7 +28,7 @@ function Technologies() {
           Tech Stack
         </h1>
         <p className="text-content py-2 lg:max-w-3xl">
-          Technologies I've been working with recently
+          Tecnologias con las que he estado trabajando ultimamente:
         </p>
       </section>
       <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
@@ -33,10 +36,13 @@ function Technologies() {
         <img src={css} title="CSS" alt="" />
         <img src={js} title="JavaScript" alt="" />
         <img src={react} title="React" alt="" />
-        <img src={redux} title="Redux" alt="" />
-        <img src={tailwind} title="Tailwind CSS" alt="" />
         <img src={bootstrap} title="Bootstrap" alt="" />
-        <img src={sass} title="SASS" alt="" />
+        <img src={php} title="Php" alt="" />
+        <img src={angular} title="Angular" alt="" />
+        <img src={java} title="Java" alt="" />
+        <img src={spring} title="SpringBoot" alt="" />
+        <img src={python} title="Python" alt="" />
+        <img src={node} title="Node.js" alt="" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">

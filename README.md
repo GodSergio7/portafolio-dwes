@@ -1,55 +1,47 @@
-# React Developer Portfolio template
-#### Live Demo https://react-portfolio-v1.netlify.app/
-#### Figma Design https://www.figma.com/community/file/1116246660507537002
-### Preview ( Dark Mode )
+# Portfolio de [Tu Nombre]
 
-<img src="/preview.gif" alt="preview" width="600px" />
+¡Hola! 👋  
+Bienvenido a mi portfolio web. Aquí encontrarás información sobre mi formación, habilidades y proyectos como desarrollador web junior.
 
-## Follow Below instructions to add your deatils in the portfolio.
+---
 
-### Change and customize every section according to your need, All you need to do is edit `/src/Details.js`
+## Sobre mí
+Soy estudiante de **Grado Superior en Desarrollo de Aplicaciones Web** y apasionado por la programación y el desarrollo de aplicaciones web modernas.  
+Me gusta aprender nuevas tecnologías y aplicarlas en proyectos reales, tanto frontend como backend.
 
-#### Open `/src/Details.js` & modify it as per your need.
+**Stack principal:**
+- Java, Node.js, Python  
+- HTML, CSS, JavaScript, React, Angular  
+- Bases de datos: MySQL  
+- Otros: Docker, Spring Boot, Laravel
 
-```javascript
-/ Enter your Personal Details here
-export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
-  img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-  when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
-};
+---
 
-// Enter your Social Media URLs here
-export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
-};
+## Proyectos
+En esta sección muestro algunos de mis proyectos más representativos:
 
-// Enter your Work Experience here
-export const workDetails = [
-  {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
-  }
-];
+1. **Sistema de gestión de tareas (CRUD con login)**  
+   - Tecnologías: React + Node.js + MySQL  
+   - Descripción: Aplicación para gestionar tareas con autenticación de usuarios y operaciones CRUD completas.
 
-// Enter your Education Details here
-export const eduDetails = { ... };
+2. **Aplicación web de reservas**  
+   - Tecnologías: Angular + Node.js + MySQL  
+   - Descripción: Proyecto académico para gestionar reservas con panel de administración.
 
-// Tech Stack and Tools
-export const techStackDetails = { ... };
+3. **[Nombre de tu proyecto personal]**  
+   - Tecnologías: …  
+   - Descripción: …  
 
-// Enter your Project Details here
-export const projectDetails = [ ... ];
+> Cada proyecto refleja mis conocimientos y mi capacidad para aprender y aplicar nuevas tecnologías.
 
-// Enter your Contact Details here
-export const contactDetails = { ... };
-```
+---
+
+## Contacto
+- 📧 Email: tuemail@example.com  
+- 🌐 Portfolio online: [https://react-portfolio-v1.netlify.app](https://react-portfolio-v1.netlify.app)  
+- 💻 GitHub: [https://github.com/tu-usuario](https://github.com/tu-usuario)  
+
+---
+
+Gracias por visitar mi portfolio.  
+Estoy abierto a **oportunidades de prácticas o trabajo junior** para seguir creciendo como desarrollador web. 🚀

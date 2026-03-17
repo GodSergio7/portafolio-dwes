@@ -1,4 +1,4 @@
-# Portfolio de [Tu Nombre]
+# Portfolio de Sergio Vidal Moreno
 
 ¡Hola! 👋  
 Bienvenido a mi portfolio web. Aquí encontrarás información sobre mi formación, habilidades y proyectos como desarrollador web junior.
